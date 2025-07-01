@@ -1,9 +1,42 @@
 # 📰 PublishHub - Blogging Platform
 
+### 🗂️ Pages Overview
+
+### 🔐 **Authentication**
+
+- **Sign Up / Sign In**  
+  Register or log in using email and password to access dashboard features.
+
+![About Page](client/assets/image.png)
+
+### 🏠 **Home Page**
+
+- Displays recent and popular blog articles in card format with search functionality.
+
 ![Home Page](client/assets/Home.png)
+
+### 📂 **Dashboard**
+
+- Admin area to manage posts, users, and comments. Contains multiple tabbed sections.
+
 ![Dashboard](client/assets/dashboard.png)
+
+### 📝 **Create / Update Post**
+
+- Rich text editor for posting blogs with cover image, title, and content formatting.
+
 ![Article Page](client/assets/Artical.png)
+
+### 👤 **Profile**
+
+- Update username, email, and other user preferences. Also delete your account.
+
 ![Profile Page](client/assets/profile.png)
+
+### 📃 **About**
+
+- Static page with app details and developer information.
+
 ![About Page](client/assets/About.png)
 
 ---
