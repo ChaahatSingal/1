@@ -1,5 +1,18 @@
 # 📰 PublishHub - Blogging Platform
 
+---
+
+## 📌 About the Project
+
+**PublishHub** is a full-stack blogging platform where users can create, manage, and interact with blog posts. It features user authentication, real-time comments, AI-powered summarization, text-to-speech, and Google Translate integration.
+
+### 🔐 Test Login Credentials
+
+- **Email:** `123@gmail.com`
+- **Password:** `Chaahat`
+
+---
+
 ### 🗂️ Pages Overview
 
 ### 🔐 **Authentication**
@@ -41,12 +54,6 @@
 
 ---
 
-## 📌 About the Project
-
-**PublishHub** is a full-stack blogging platform where users can create, manage, and interact with blog posts. It features user authentication, real-time comments, AI-powered summarization, text-to-speech, and Google Translate integration.
-
----
-
 ## 🚀 Features
 
 - 🔐 User Authentication (Sign Up / Sign In)
@@ -72,5 +79,3 @@
 - Firebase (for OAuth)
 
 ---
-
-## 🧩 Folder Structure
